@@ -1,0 +1,95 @@
+*{  
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-size: cover;
+    background-image: url('../images/33.jpg');
+    height: 633px;
+}
+header{
+    height: 10%;
+  
+}
+main{
+    height: 80%;
+    padding: 7%;
+}
+footer{
+    height: 10%;
+}
+.login-form{
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 15px;
+    border: 2px dotted #008B8B;
+    border-radius: 10px;
+}
+h1{
+    color: #009999;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.input-box{
+    margin-bottom: 10px;
+}
+.input-box input{
+    padding: 7.5px 15px;
+    width: 100%;
+    border: 1px solid #cccccc;
+    outline: none;
+}
+.btn-box{
+    text-align: right;
+    margin-top: 15px;
+    
+}
+.btn-box button{
+    padding: 7.5px 15px;
+    border-radius: 2px;
+    background-color: #009999;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.box1 a:hover{
+    color: red;
+}
+.box1 a{
+    color: black;
+    text-decoration: none;
+}
+.box1{
+    text-align: left;
+    font-size: 13.5px;
+}
+.box2 a:hover{
+    color: red;
+}
+.box2 a{
+    color: black;
+    text-decoration: none;
+}
+.box2{
+    transform: translateY(30%);
+    text-align: left;
+    font-size: 13.5px;
+}
+.back a{
+    font-weight: bold;
+    color: #009999;
+    font-size: 15px;
+    text-decoration: none;
+}
+.back a:hover{
+    color: red;
+}
+.back{
+    transform: translateY(100%);
+    margin-left: 33%;
+}

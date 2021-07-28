@@ -1,0 +1,322 @@
+*{ box-sizing: border-box; 
+    font-family: sans-serif;}
+body{
+    margin: auto;
+    padding: 0px;
+    
+}
+header{
+    position: relative;
+    height: 400px;
+    background-color: silver;
+    background: no-repeat url("../images/dulich.png");
+    background-size: cover;
+    overflow: hidden;
+}
+nav{
+    margin-left: 10%;
+    width: 1100px;
+}
+nav p{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+main{
+    margin-top: 20px;
+    width: 1100px;
+    height: 1250px;
+    margin-left: 10%;
+}
+.cam{
+    width: 1100px;
+    height: 250px;
+}
+.cam1{
+    display: inline-block;
+    height: 100%;
+    width: 28%;
+}
+.cam2{
+    text-align: justify;
+    font-size: larger; 
+    transform: translateY(-60%);
+    display: inline-block;
+    height: 50%;
+    width: 71%;
+}
+.thai{
+    margin-top: 20px;
+    width: 1100px;
+    height: 250px;
+}
+.thai1{
+    display: inline-block;
+    height: 100%;
+    width: 28%;
+}
+.thai2{
+    text-align: justify;
+    font-size: larger; 
+    display: inline-block;
+    transform: translateY(-60%);
+    height: 50%;
+    width: 71%;
+}
+.mya{
+    margin-top: 20px;
+    width: 1100px;
+    height: 250px;
+}
+.mya1{
+    display: inline-block;
+    height: 100%;
+    width: 28%;
+}
+.mya2{
+    text-align: justify;
+    font-size: larger;
+    display: inline-block;
+    transform: translateY(-60%);
+    height: 50%;
+    width: 71%;
+}
+.an{
+    margin-top: 20px;
+    width: 1100px;
+    height: 250px;
+}
+.an1{
+    display: inline-block;
+    height: 100%;
+    width: 28%;
+}
+.an2{
+    text-align: justify;
+    font-size: larger;
+    transform: translateY(-60%);
+    display: inline-block;
+    height: 50%;
+    width: 71%;
+}
+.hinh{
+    margin-top: 50px;
+    margin-left: 135px;
+    width: 1100px;
+    height: 500px;
+}
+.hinh1{
+    transform: translateY(-30%);
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+}
+.i1{
+    margin-left: 15px;
+    width: 100%;
+    height: 40%;
+
+}
+.dulich1{
+    margin-top: 10px;
+    margin-left: 35px;
+    font-weight: bold;
+    font-size: 20px;
+    list-style: none;
+    display: inline-block;
+}
+.dulich2{
+    margin-top: 10px;
+    margin-left: 60px;
+    font-weight: bold;
+    font-size: 20px;
+    list-style: none;
+    display: inline-block;
+}
+.hinh2{
+    transform: translateY(-30%);
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+}
+.i2{
+    margin-left: 15px;
+    width: 100%;
+    height: 40%;
+}
+.dulich3{
+    margin-top: 10px;
+    margin-left: 35px;
+    font-weight: bold;
+    font-size: 20px;
+    list-style: none;
+    display: inline-block;
+}
+.dulich4{
+    margin-top: 10px;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    list-style: none;
+    display: inline-block;
+}
+.hinh3{
+    margin-left: 10px;
+    display: inline-block;
+    width: 38%;
+    height: 100%;
+}
+.tour1{
+    font-size: 20px;
+    line-height: 30px;
+}
+.tour2{
+    margin-top: -60px;
+    margin-left: 60%;
+    font-size: 20px;
+    line-height: 30px;
+}
+.ga{
+    letter-spacing: 30px;
+}
+.code{
+    letter-spacing: 30px;
+}
+.bay{
+    transform: translate(28%, -65%);
+}
+.hinh3 h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+.contact{
+    margin-left: 10%;
+    width: 1100px;
+}
+.contact img{
+    position: absolute;
+    margin-left: 1%;
+}
+.lienhe{
+    position: absolute;
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+    text-align: left;
+    transform: translateX(30%);
+}
+.left{
+    position: absolute;
+    line-height: 23px;
+    font-size: 15px;
+    transform: translate(5%, 30%);
+}
+.quydinh{
+    position: relative;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+.center{
+    position: absolute;
+    text-align: center;
+    line-height: 23px;
+    font-size: 15px;
+    transform: translate(130%,5%);
+    
+}
+.mangxahoi{
+    transform: translate(-5%,-100%);
+    text-align: right;
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+.fb{
+    letter-spacing: 5px;
+    transform: translate(-3%,-50%);
+    text-align: right;
+    font-weight: bold;
+    font-size: larger;
+}
+.thanhtoan{
+    transform: translate(-1%,0%);
+    text-align: right;
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+.visa{
+    letter-spacing: 5px;
+    transform: translate(-2%,30%);
+    text-align: right;
+    font-weight: bold;
+    font-size: larger;
+} 
+.hi1{
+    transform: translateY(-2000%);
+    margin-left: 250px;
+    width: 900px;
+}
+.tinkhac h3{
+    font-size: 22px;
+    color: red;
+}
+.tinkhac li{
+    margin-left: 30px;
+    list-style: none;
+    font-size: larger;
+}
+.tinkhac a{
+    color: black;
+    text-decoration: none;
+}
+.tinkhac a:hover{
+    color: red;
+}
+.hr{
+    transform: translateY(1500%);
+    margin-left: 450px;
+    width: 500px;
+}
+.hr1{
+    transform: translateY(1500%);
+    margin-left: 410px;
+    width: 300px;
+}
+.back{
+    position: relative;
+    background-color: #f5f5f5;
+    height: 30px;
+    margin-left: 135px;
+    width: 1100px;
+}
+
+.tc a{
+    position: absolute;
+    margin-left: 20px;
+    transform: translateY(30%);
+    color: black;
+    font-size: 17px;    
+}
+.tc a:hover{ 
+    color: red;
+}
+.back i{
+    font-weight: bolder;
+    margin-left: 95px;
+    position: absolute;
+    transform: translate(60%,110%);
+}
+.dl a{
+    position: absolute;
+    margin-left: 115px;
+    transform: translateY(30%);
+    color: black;
+    font-size: 17px;  
+}
+.dl a:hover{
+    color: red;
+}
